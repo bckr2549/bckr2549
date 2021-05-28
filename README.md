@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Chenna Krishna Reddy 👨‍🎓 👨‍💻
 
-<!--
+
 ** I'm a machine learning researcher who is deeply intrested in tinkering with computer vision and deep learning.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything in Computer vision and Machine learning
 - 📫 How to reach me: chennakrish2549@gmail.com
 - ⚡ Fun fact: ... I am half Finnish
--->
+
